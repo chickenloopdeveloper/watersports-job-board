@@ -50,12 +50,12 @@
 - [ ] Company detail pages
 
 ## Frontend - Landing Page & Public Views
-- [ ] Design modern landing page with watersports theme
-- [ ] Public job listings page with search and filters
-- [ ] Job detail page with apply button
+- [x] Design modern landing page with watersports theme
+- [x] Public job listings page with search and filters
+- [x] Job detail page with apply button
 - [ ] Company profile public view
 - [ ] Public resume listings (for recruiters to browse)
-- [ ] Navigation structure for all user types
+- [x] Navigation structure for all user types
 
 ## Frontend - Authentication
 - [ ] Login/register flow for all user types
